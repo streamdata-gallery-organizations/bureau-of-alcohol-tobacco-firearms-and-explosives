@@ -1,10 +1,11 @@
-title: Streamdata Gallery
-url: organization.api.streamdata.gallery
-tag: Organization
+title: Streamdata API Gallery - Bureau of Alcohol, Tobacco, Firearms, and Explosives
+description: A gallery of APIs to demonstrate what is possible when it comes to making data, content, and algorithms more real time, and event-driven as part of the API economy.
+url: bureau-of-alcohol-tobacco-firearms-and-explosives.streamdata.gallery
+tag: Bureau of Alcohol, Tobacco, Firearms, and Explosives
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery
-github_repo: payments
+github_user: streamdata-gallery-entities
+github_repo: bureau-of-alcohol-tobacco-firearms-and-explosives
 github_branch: master
 collections:
   listings:
