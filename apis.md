@@ -5,7 +5,7 @@ description: This is a repository of bureau of alcohol, tobacco, firearms, and e
   of the APIs and their surrounding operations.
 image: http://template.streamdata.gallery/assets/bureau-of-alcohol-tobacco-firearms-and-explosives.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://bureau-of-alcohol-tobacco-firearms-and-explosives.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
