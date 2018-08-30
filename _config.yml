@@ -4,7 +4,7 @@ url: bureau-of-alcohol-tobacco-firearms-and-explosives.streamdata.gallery
 tag: Bureau of Alcohol, Tobacco, Firearms, and Explosives
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-entities
+github_user: streamdata-gallery-topics
 github_repo: bureau-of-alcohol-tobacco-firearms-and-explosives
 github_branch: master
 collections:
